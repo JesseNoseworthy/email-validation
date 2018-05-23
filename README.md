@@ -75,7 +75,7 @@ This will also enable for us to make use of prop-based styling, or to better acc
 
 ```
 const Container = styled.button`
-  color: ${props => props.isActive ? props.theme.colors.white : props.theme.colors.white};
+  color: ${props => props.isActive ? props.theme.colors.white : props.theme.colors.black};
 `;
 
 ```
