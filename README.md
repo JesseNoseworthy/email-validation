@@ -1,6 +1,6 @@
 # Email Validation :email:
 
-Welcome! This application is built using React, Router, and Styled-Components.
+Welcome! This application is built using React, and Styled-Components.
 
 - [System requirements](https://github.com/JesseNoseworthy/email-validation#system-requirements)
 - [Getting started](https://github.com/JesseNoseworthy/email-validation#getting-started)
